@@ -87,7 +87,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <I18nextProvider i18n={i18next}>
       <Provider store={store}>
         <PersistGate persistor={persistor}>
-          <BrowserRouter basename="/task-pro-frontend">
+          <BrowserRouter basename="/node_front_fs_88_NickTsalyn">
             <ThemeWrapper>            
               <Toaster toastOptions={toastStyles} />
               <App />
