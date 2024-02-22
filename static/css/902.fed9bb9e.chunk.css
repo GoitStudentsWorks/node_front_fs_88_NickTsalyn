@@ -1,0 +1,2 @@
+.modal-overlay{height:100%;left:0;opacity:0;overflow:hidden;overflow-y:auto;position:fixed;top:0;transition:opacity .3s;width:100%;z-index:999}.ReactModal__Overlay--after-open{opacity:1}.ReactModal__Overlay--before-close{opacity:0}.modal-overlay:after,.modal-overlay:before{content:"";display:block;flex-grow:1;height:1px}.modal-content{border:none;bottom:auto;left:50%;margin-right:-50%;padding:0;position:absolute;right:auto;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}
+/*# sourceMappingURL=902.fed9bb9e.chunk.css.map*/
